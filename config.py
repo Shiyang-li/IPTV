@@ -23,7 +23,8 @@ source_urls = [
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u"
+    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u",
+    "https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt"
 ]
 
 url_blacklist = [
